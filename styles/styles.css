@@ -100,3 +100,70 @@ nav a {
 }
 
 /* main section star  */
+
+/* start about me section  */
+
+.aboutme-section {
+    background-color: #FFF8F3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1140px;
+    height: 550px;
+    margin: 130px auto;
+
+}
+
+.section-title {
+    color: #181818);
+    text-align: center;
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+}
+
+.acoutme-description {
+    display: block;
+    color: #757575);
+    text-align: center;
+    
+    width: 825px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+.section-title {
+    display: flex;
+    gap: 50px;
+    color: #474747;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100px;
+    
+    
+}
+.section-title-h2{
+    margin-top: 130px;
+}
+.about-me-into-details{
+    color: black;
+    text-align: center;
+    font-size: 20px; 
+    font-weight: 700;
+       
+}
+.about-me-into-tname{
+    font-weight: 200;
+}
+.about-me-into-details{
+    font-weight: 700px;
+}
+.about-me-into-tname, .about-me-into-details{
+    margin: 0px;
+    padding: 0px;
+}
