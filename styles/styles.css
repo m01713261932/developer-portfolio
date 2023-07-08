@@ -211,8 +211,55 @@ nav a {
     border-radius: 5px;
     background: #FFF;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-    
+
 }
-.skill-img{
-    padding: 30px 30px 0px 30px ;
+
+.skill-img {
+    padding: 30px 30px 0px 30px;
+}
+
+/* start resume summary  */
+
+.resume-summary {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resume-sum-det-title {
+    color: #474747);
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.resume-sum-deg-name {
+    color: #474747);
+    font-size: 25px;
+    font-weight: 700;
+    margin:0px
+}
+
+.resume-sum-ins-name {
+    color: #757575);
+    font-size: 20px;
+    font-weight: 600;
+    margin:0px
+
+}
+
+.resume-sum-details {
+    color: #757575);
+    font-size: 16px;
+    font-weight: 400;
+    margin:0px
+}
+.resume-summary-size{
+    width: 550px;
+}
+.resume-summary-2col{
+    display: flex;
+    gap: 50px;
 }
